@@ -1,15 +1,25 @@
+
+
+
+
 <?php
 
-// This is my stage 2 task
+$fullname ="Temitope Japheth" ;
 
-$name = "Temitope Japheth";
+$ID = "HNG-04757";
 
-$id = "HNG-04757";
+$language = "php" ;
 
-$language = "PHP";
+echo "Hello World, this is $fullname with HNGi7 ID $ID and email japhethtemitope@gmail.com using $language for stage 2 task.";
 
-$email = "japhethtemitope@gmail.com";
+?>
 
-print(" Hello world, this is {$name} with HNGi7 ID {$id} and email {$email} using {$language} for stage 2 task ") ;
+
+
+
+
+
+
+
 
 
